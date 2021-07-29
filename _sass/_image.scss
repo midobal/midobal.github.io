@@ -1,7 +1,7 @@
 .wp-caption {
-background-color: #f3f3f3;
+background-color: transparent;
 text-align: center;
-border: 1px solid grey;
+border: 1px solid $border;
 	font-size: 0.90em;
 	overflow: hidden;
 	position: relative;
@@ -9,11 +9,11 @@ border: 1px solid grey;
 }
 
 .wp-caption dd {
-        color: #000000;
-	background-color: #f3f3f3;
+        color: #ffffff;
+	background-color: #333b3f;
 	font-size: .9em;
-	padding: 2px 8px 3px 8px;
-	margin: 1px 0 0 0;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0 0 0;
 }
 
 .wp-caption dt {
