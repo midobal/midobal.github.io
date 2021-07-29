@@ -37,6 +37,14 @@ $on-laptop:        950px;
     }
 }
 
+.justify{
+     text-align: justify;
+}
+
+.right{
+     text-align: right;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
     "header",
