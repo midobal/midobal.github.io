@@ -45,6 +45,15 @@ $on-laptop:        950px;
      text-align: right;
 }
 
+.ident{
+     margin-left: 200px;
+}
+
+.timeline{
+     color: #86bad0;
+     margin-bottom: 0px;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
     "header",
