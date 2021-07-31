@@ -6,9 +6,9 @@ title: Research experience
 **October 2020&ndash;Present** <br />
 {: .timeline}
 **Covid-19 MultiLingual Information Access (Covid-19 MLIA).** <br />
-Community effort to boost the development of language resources and multilingual information access systems specifically tailored on Covid-19. It is promoted by several communities which are closely working together. Supported by the *European Commision*, the *European Language Resources Coordination*, the *European Language Resources Association*, the *European Research Infrastructure for Language Resources and Technology* and the *CLEF Initiative*.<br />
+Community effort to boost the development of language resources and multilingual information access systems specifically tailored on Covid-19. It is promoted by several communities which are closely working together. Supported by the *European Commission*, the *European Language Resources Coordination*, the *European Language Resources Association*, the *European Research Infrastructure for Language Resources and Technology* and the *CLEF Initiative*.<br />
 {: .project .justify}
-*The machine translation task aims to organize a community evaluation effort with the intents of accelarating the creation of resources and tools for improving the generation of MT systems focused on Covid-19 related documents.* <br />
+*The machine translation task aims to organize a community evaluation effort with the intents of accelerating the creation of resources and tools for improving the generation of MT systems focused on Covid-19 related documents.* <br />
 {: .summary .justify}
 Co-organizer of the machine translation shared task.
 {: .justify}
