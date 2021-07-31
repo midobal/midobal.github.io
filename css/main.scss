@@ -10,7 +10,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #abb3ae/*9fa4a1*/;
+$text-color:       #e4f9ec;
 $background-color: #191b1c;
 $brand-color:      #36a8ed;
 
@@ -51,6 +51,16 @@ $on-laptop:        950px;
 
 .timeline{
      color: #86bad0;
+     margin-bottom: 0px;
+}
+
+.project{
+     color: #caded2;
+     margin-bottom: 0px;
+}
+
+.summary{
+     color: #abb3ae;
      margin-bottom: 0px;
 }
 
