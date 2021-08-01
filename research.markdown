@@ -23,7 +23,7 @@ Research project supported by the *Generalitat Valenciana (GVA)* under the refer
 I work as a researcher developing new interactive protocols for the processing of historical data.
 {: .justify}
 
-**June 2019&ndash;November 2019** <br />
+**June&ndash;November 2019** <br />
 {: .timeline}
 **Machine Learning Applications.** <br />
 Research line from the *PRHLT Research Center*. <br />
@@ -53,7 +53,7 @@ Research project supported by the *Generalitat Valenciana (GVA)* under the refer
 I worked as a researcher developing new interactive machine translation protocols.
 {: .justify}
 
-**July 2015&ndash;December 2015** <br />
+**July&ndash;December 2015** <br />
 {: .timeline}
 **Desarrollo de una plataforma tecnológica orientada a la eficiencia de los recursos en el campo de las nuevas tecnologías Internet of Things (SmartWays).** <br />
 Research project supported by the *Ministerio de Economía y Competitividad (MINECO)* under the reference *RTC-2014-1466-4*. <br />
