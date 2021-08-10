@@ -95,5 +95,5 @@ Miguel Domingo, Mara Chinea-Rios and Francisco Casacuberta.
 {: .timeline}
 Miguel Domingo, Álvaro Peris and Francisco Casacuberta.
 **Interactive-Predictive Translation based on Multiple Word-Segments.**
-*In Proceedings of the Annual Conference of the European Association for Machine Translation, pages 282–291. [pdf](https://aclanthology.org/W16-3415.pdf). **Best paper award**.*
+*In Proceedings of the Annual Conference of the European Association for Machine Translation, pages 282–291. [pdf](https://aclanthology.org/W16-3415.pdf). [Best paper award](documents/EAMT2016-BestPaperAward.pdf).*
 {: .justify}
