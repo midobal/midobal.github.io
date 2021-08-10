@@ -13,7 +13,7 @@ Hi there, welcome to my website! I'm Miguel Domingo. I work as a researcher at t
 ## Professional experience
 
 **July 2015&ndash;Present** <br />
-{: .timeline}
+{: .timeline .ident}
 **Researcher** - *[Pattern Recognition and Human Language Technologies Research Center](https://www.prhlt.upv.es)*. <br />
 I have been working on several research projects while doing my Ph.D. studies.
 {: .ident .justify}

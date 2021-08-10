@@ -46,7 +46,12 @@ $on-laptop:        950px;
 }
 
 .ident{
-     margin-left: 200px;
+      margin-left: 200px;
+}
+@media only screen and (max-width: 600px) {
+  .ident{
+        margin-left: 0px;
+  }
 }
 
 .timeline{
