@@ -5,7 +5,7 @@ title: Research experience
 
 **October 2020&ndash;Present** <br />
 {: .timeline}
-**Covid-19 MultiLingual Information Access (Covid-19 MLIA).**
+**Covid-19 MultiLingual Information Access (Covid-19 MLIA).** *[Website](http://eval.covid19-mlia.eu/)*. *[MT repo](https://github.com/midobal/covid19mlia-mt-task)*.
 {: .justify .title}
 Community effort to boost the development of language resources and multilingual information access systems specifically tailored on Covid-19. It is promoted by several communities which are closely working together. Supported by the *European Commission*, the *European Language Resources Coordination*, the *European Language Resources Association*, the *European Research Infrastructure for Language Resources and Technology* and the *CLEF Initiative*.<br />
 {: .project .justify}
