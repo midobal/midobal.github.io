@@ -24,7 +24,7 @@ I have been working on several research projects while doing my Ph.D. studies.
 **2015&ndash;Present** <br />
 {: .timeline .ident}
 **Ph.D.** - *[Universitat Politècnica de València](http://www.upv.es/)*. <br />
-I'm currently finishing my Ph.D. at the [PRHLT Research Center](https://www.prhlt.upv.es). It is mainly focused in interactive machine translation and in applying machine translation to some tasks related with the processing of historical documents.
+I'm currently finishing my Ph.D. at the [PRHLT Research Center](https://www.prhlt.upv.es). It is mainly focused on interactive machine translation and on applying machine translation to some tasks related with the processing of historical documents.
 {: .ident .justify}
 
 **2014&ndash;2015** <br />
@@ -37,5 +37,5 @@ I did a M.Sc. in artificial intelligence, pattern recognition and digital imagin
 {: .timeline .ident}
 **Engineer's degree** - *[Universitat Politècnica de València](http://www.upv.es/)*. <br />
 I did a B.Sc. in computer science (computer science engineer), focusing on artificial intelligence and formal languages. I spent half a year at [Edinburgh Napier University](https://www.napier.ac.uk/) taking courses on sound design and security and forensic computing. My Bachelor's thesis (*[Reconocedor Automático de Melodías
-de Música Clásica](https://riunet.upv.es/handle/10251/45907)*) was focused on identifying classical melodies from a fragment of it, a hum, a whistle or an *a cappella* fragment (if the song has lyrics).
+de Música Clásica](https://riunet.upv.es/handle/10251/45907)*) was focused on identifying classical melodies from a fragment of it, a hum, a whistle or an *a cappella* fragment (only for songs with lyrics).
 {: .ident .justify}

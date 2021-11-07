@@ -33,7 +33,7 @@ Research line from the *PRHLT Research Center*. <br />
 {: .project .justify}
 *This research line included several research projects ongoing at the PRHLT Research Center on the fields of big data and deep learning, speech processing and dialog systems, handwritten text recognition, computer vision, language translation and natural language processing.* <br />
 {: .summary .justify}
-I worked as a researcher on the field of machine translation and its application to the processing of historical data.
+I worked as a researcher on the field of machine translation and its applications to the processing of historical data.
 {: .justify}
 
 **February 2018&ndash;May 2019** <br />
@@ -42,7 +42,7 @@ I worked as a researcher on the field of machine translation and its application
 {: .justify .title}
 Research project registered under the project *Hybrid Neural Machine Translation Platform*, developed by the company *Pangeanic* with support from the *Centro Para el Desarrollo Tecnológico Industrial (CDTI)* and the *European Union* under *Programa Operativo de Crecimiento Inteligente* (reference *IDI-20170964*). <br />
 {: .project .justify}
-*The goal of this project is to create a hybrid neural machine translation platform that profits from the company's current machine translation framework to create a new translation core based on neural machine translation that created added value for the professional users and the clients.* <br />
+*The goal of this project was to create a hybrid neural machine translation platform that profits from the company's current machine translation framework to create a new translation core based on neural machine translation that created added value for the professional users and the clients.* <br />
 {: .summary .justify}
 I worked as a researcher helping in the development of this platform and incorporating an incremental learning framework.
 {: .justify}
@@ -53,7 +53,7 @@ I worked as a researcher helping in the development of this platform and incorpo
 {: .justify .title}
 Research project supported by the *Generalitat Valenciana (GVA)* under the reference *PROMETEOII/2014/030*. <br />
 {: .project .justify}
-*This project follows past PROMETEO projects based on profiting from the user's feedback on interactive pattern recognition approaches. Its goal is to retrain the system using the data produced during the feedback process to adapt the system to the user's behavior and the task's particularities; explore the multimodality inherent in the interaction in order to improve the overall behavior and usability of the system; and applied the developed techniques to the fields of handwritten text recognition, machine translation and image retrieval.* <br />
+*This project followed past PROMETEO projects based on profiting from the user's feedback on interactive pattern recognition approaches. Its goal was to retrain the system using the data produced during the feedback process to adapt the system to the user's behavior and the task's particularities; explore the multimodality inherent in the interaction in order to improve the overall behavior and usability of the system; and apply the developed techniques to the fields of handwritten text recognition, machine translation and image retrieval.* <br />
 {: .summary .justify}
 I worked as a researcher developing new interactive machine translation protocols.
 {: .justify}
@@ -64,7 +64,7 @@ I worked as a researcher developing new interactive machine translation protocol
 {: .justify .title}
 Research project supported by the *Ministerio de Economía y Competitividad (MINECO)* under the reference *RTC-2014-1466-4*. <br />
 {: .project .justify}
-*This project is devoted to develop a data platform which will allow for implementing a Smart City environment, including features for Smart Light management and Smart Parking management.* <br />
+*This project was devoted to develop a data platform which would allow for implementing a Smart City environment, including features for Smart Light management and Smart Parking management.* <br />
 {: .summary .justify}
 I worked as a researcher helping improve the in-car speech recognition and dialog systems for Smart Parking.
 {: .justify}
