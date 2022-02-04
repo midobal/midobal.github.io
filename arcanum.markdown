@@ -49,6 +49,11 @@ In this section I upload presentations and other miscellanea for archival purpos
 {: .justify}
 
 ## Other presentations
+**2022** <br />
+{: .timeline}
+**Some Contributions to Interactive Machine Translation and to the Applications of Machine Translation for Historical Documents**, *Ph.D. defense*, Departament de Sistemes Informàtics i Computació, January 28. [Slides](presentations/PhD.pdf).
+{: .justify}
+
 **2021** <br />
 {: .timeline}
 **Covid-19 MLIA task 3**, *CHIST-ERA Challenge Call*, Online, July 21. [Slides](presentations/CHIST-ERA2021.pdf).

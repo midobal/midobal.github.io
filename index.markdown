@@ -15,16 +15,16 @@ Hi there, welcome to my website! I'm Miguel Domingo. I work as a researcher at t
 **July 2015&ndash;Present** <br />
 {: .timeline .ident}
 **Researcher** - *[Pattern Recognition and Human Language Technologies Research Center](https://www.prhlt.upv.es)*. <br />
-I have been working on several research projects while doing my Ph.D. studies.
+I have been working on several machine learning research projects&mdash;mainly on the field of machine translation&mdash;while doing my Ph.D. studies.
 {: .ident .justify}
 
 ## Education
 {: .ident}
 
-**2015&ndash;Present** <br />
+**2015&ndash;2022** <br />
 {: .timeline .ident}
 **Ph.D.** - *[Universitat Politècnica de València](http://www.upv.es/)*. <br />
-I'm currently finishing my Ph.D. at the [PRHLT Research Center](https://www.prhlt.upv.es). It is mainly focused on interactive machine translation and on applying machine translation to some tasks related with the processing of historical documents.
+I did a Ph.D. in computer science at the [PRHLT Research Center](https://www.prhlt.upv.es). It was mainly focused on interactive machine translation and on applying machine translation to some tasks related with the processing of historical documents (language modernization and spelling normalization). *Ph.D.'s' thesis: [Some Contributions to Interactive Machine Translation and to the Applications of Machine Translation for Historical Documents](documents/PhDdissertation.pdf)*.
 {: .ident .justify}
 
 **2014&ndash;2015** <br />
