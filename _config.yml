@@ -21,7 +21,9 @@
 title: Miguel Domingo
 email: midobal@prhlt.upv.es
 description: >- # this means to ignore newlines until "baseurl:"
-  <b>Short bio</b>: I'm a researcher working at the <i>PRHLT Research Center</i> in the fields of machine translation and historical document processing. My interests also include pattern recognition and machine learning. Currently, I'm finishing my Ph.D. studies at <i>Universitat Politècnica de València</i>.
+  Short bio: I'm a Ph.D. researcher working at the PRHLT Research Center in the fields
+  of machine translation and historical document processing. My interests also include
+  pattern recognition and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
