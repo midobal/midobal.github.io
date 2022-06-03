@@ -10,14 +10,14 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #e4f9ec;
-$background-color: #191b1c;
+$text-color:       #d5e3db;
+$background-color: #1c1e20;
 $brand-color:      #36a8ed;
 
 $blue-color-dark:  #245390;
 $blue-color-light: #4B93DB;
 
-$grey-color:       #828282;
+$grey-color:       #f1f1f1;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -60,17 +60,21 @@ $on-laptop:        950px;
 }
 
 .project{
-     color: #caded2;
+     color: #a3e0bc;
      margin-bottom: 0px;
 }
 
 .summary{
-     color: #abb3ae;
+     color: #b1e7e3;
      margin-bottom: 0px;
 }
 
 .title{
      margin-bottom: 0px;
+}
+
+.work{
+     color: #ffffff;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)

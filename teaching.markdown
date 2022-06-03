@@ -10,7 +10,7 @@ title: Teaching experience
 *The goal of this course is to train students in techniques based on automatic learning that allow the construction of translation systems using datasets formed by sentences and their corresponding translations. First, students will study the fundamentals of translators based on statistical alignment models and translators based on dynamic neural networks. Then, they will implement and evaluate automatic translators using public tools.* <br />
 {: .summary .justify}
 Teaching assistant.
-{: .justify}
+{: .work .justify}
 
 **February&ndash;July 2021** <br />
 {: .timeline}
@@ -19,7 +19,7 @@ Teaching assistant.
 *Programming course taught in Python. Its goal is to deep into the study of dictionary-type data structures; dataframes; object-oriented programming; recursivity programming; algorithm analysis; and linear data structures (heaps, queues and lists).* <br />
 {: .summary .justify}
 Teaching assistant.
-{: .justify}
+{: .work .justify}
 
 **September 2020&ndash;February 2021** <br />
 {: .timeline}
@@ -28,7 +28,7 @@ Teaching assistant.
 *The goal of this course is to train students in techniques based on automatic learning that allow the construction of translation systems using datasets formed by sentences and their corresponding translations. First, students will study the fundamentals of translators based on statistical alignment models and translators based on dynamic neural networks. Then, they will implement and evaluate automatic translators using public tools.* <br />
 {: .summary .justify}
 Teaching assistant.
-{: .justify}
+{: .work .justify}
 
 **September 2020&ndash;February 2021** <br />
 {: .timeline}
@@ -37,7 +37,7 @@ Teaching assistant.
 *Programming course taught in Python. Its goal is to instill to students the ability to program, since programming is more a skill than a knowledge. The aim is for students to be able to carry out small programs in a high level language based on problem-solving in an informal language. Given the basic fundamentals of programming through this course, students should be able to make programs in other languages/environments after consulting the relevant manuals in a self-taught manner. The teaching of the basic concepts of programming allows its applicability in the context of the career in which it is located.* <br />
 {: .summary .justify}
 Teaching assistant.
-{: .justify}
+{: .work .justify}
 
 **January&ndash;June 2020** <br />
 {: .timeline}
@@ -46,7 +46,7 @@ Teaching assistant.
 *Programming course taught in Python. Its goal is to deep into the study of dictionary-type data structures; dataframes; object-oriented programming; recursivity programming; algorithm analysis; and linear data structures (heaps, queues and lists).* <br />
 {: .summary .justify}
 Teaching assistant.
-{: .justify}
+{: .work .justify}
 
 **January&ndash;June 2020** <br />
 {: .timeline}
@@ -55,4 +55,4 @@ Teaching assistant.
 *Programming course taught in C. Its goal is to introduce students to the fundamentals of computer science. The course will focus mainly on computer-related aspects of computer programming, since the large number of applications that programming has in engineering makes it an essential requirement in the training of every engineer. In addition, students will be introduced to the use of computer applications related to engineering.* <br />
 {: .summary .justify}
 Teaching assistant.
-{: .justify}
+{: .work .justify}
