@@ -3,7 +3,7 @@ layout: page
 title: Teaching experience
 ---
 
-**September 2021&ndash;Present** <br />
+**September 2021&ndash;February 2022** <br />
 {: .timeline}
 **Machine Translation,** *[Master’s Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging](http://www.upv.es/titulaciones/MUIARFID/indexi.html)*, [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html) - [Universitat Politècnica de València](http://www.upv.es/).
 {: .justify .title}
