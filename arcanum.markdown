@@ -6,6 +6,11 @@ title: Arcanum
 In this section I upload presentations and other miscellanea for archival purposes and for those who look to dive in to the arcane.
 
 ## Papers presented
+**2022** <br />
+{: .timeline}
+**An Interactive Machine Translation Framework for Modernizing the Language of Historical Documents**, *10th Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)*, Aveiro, May 4–6. [Slides](presentations/IbPRIA2022.pdf).
+{: .justify}
+
 **2021** <br />
 {: .timeline}
 **Two Demonstrations of the Machine Translation Applications to Historical Documents**, *25th International Conference on Pattern Recognition (ICPR)*, Online, January 10–15. [Poster](presentations/ICPR2020.pdf).
@@ -51,6 +56,9 @@ In this section I upload presentations and other miscellanea for archival purpos
 ## Other presentations
 **2022** <br />
 {: .timeline}
+**Overview of the "Machine Translation" Task**, *Covid-19 MLIA: Round 2 Virtual Meeting*, Online, February 17. [Slides](presentations/COVID19MLIA2022.pdf).
+{: .justify}
+
 **Some Contributions to Interactive Machine Translation and to the Applications of Machine Translation for Historical Documents**, *Ph.D. defense*, Departament de Sistemes Informàtics i Computació, January 28. [Slides](presentations/PhD.pdf).
 {: .justify}
 
@@ -60,4 +68,12 @@ In this section I upload presentations and other miscellanea for archival purpos
 {: .justify}
 
 **Overview of the "Machine Translation" Task**, *Covid-19 MLIA: Round 1 Virtual Meeting*, Online, January 12–14. [Slides](presentations/COVID19MLIA2021.pdf).
+{: .justify}
+
+**2015** <br />
+{: .timeline}
+**Interactive Post-Editing in Machine Translation**, *M.Sc. defense*, Departament de Sistemes Informàtics i Computació, September 25. [Slides](presentations/MSc.pdf).
+{: .justify}
+
+**Statistical Post-Editing**, *Internal MT Seminar*, Ciutat Politècnica de la Innovació, March 31. [Slides](presentations/spe.pdf).
 {: .justify}
