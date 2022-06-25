@@ -41,7 +41,7 @@ Miguel Domingo and Francisco Casacuberta.
 {: .timeline}
 Miguel Domingo and Francisco Casacuberta.
 **A Comparison of Character-based Neural Machine Translations Techniques Applied to Spelling Normalization.**
-*In Proceedings of the International Conference on Pattern Recognition. International Workshop on Pattern Recognition for Cultural Heritage, pages 326–338. [pdf](https://www.prhlt.upv.es/aigaion2/attachments/2021%20-%20PatReCH%20-%20Domingo%20-%20Casacuberta.pdf-10fc167251e3d0d77ce53331d3398dcf.pdf).*
+*In Proceedings of the International Conference on Pattern Recognition. International Workshop on Pattern Recognition for Cultural Heritage, pages 326–338. [pdf](papers/PatReCH2020.pdf). [Published version](https://doi.org/10.1007/978-3-030-68787-8_24)*
 {: .justify}
 
 Miguel Domingo and Francisco Casacuberta.
@@ -60,7 +60,7 @@ Miguel Domingo, Mercedes García-Martínez, Álvaro Peris, Alexandre Helle, Aman
 {: .timeline}
 Miguel Domingo and Francisco Casacuberta.
 **Enriching Character-based Neural Machine Translation with Modern Documents for Achieving an Orthography Consistency in Historical Documents.**
-*In Proceedings of the International Conference on Image Analysis and Processing. International Workshop on Pattern Recognition for Cultural Heritage, pages 59–69. [pdf](https://www.prhlt.upv.es/aigaion2/attachments/2019-PatReCH-Domingo-Casacuberta.pdf-fbc810a3fc7144ad1a11d18461482758.pdf).*
+*In Proceedings of the International Conference on Image Analysis and Processing. International Workshop on Pattern Recognition for Cultural Heritage, pages 59–69. [pdf](papers/PatReCH2019.pdf). [Published version](https://doi.org/10.1007/978-3-030-30754-7_7).*
 {: .justify}
 
 Miguel Domingo, Mercedes García-Martínez, Álvaro Peris, Alexandre Helle, Amando Estela, Laurent Bié, Francisco Casacuberta and Manuel Herranz.
