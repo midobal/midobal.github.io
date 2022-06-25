@@ -30,6 +30,12 @@ Miguel Domingo, Álvaro Peris and Francisco Casacuberta.
 {: .justify}
 
 ## Conference proceedings
+**2022** <br />
+{: .timeline}
+Miguel Domingo and Francisco Casacuberta.
+**An Interactive Machine Translation Framework for Modernizing the Language of Historical Documents.**
+*In Proceedings of the Iberian Conference on Pattern Recognition and Image Analysis, pages 41–53. [pdf](papers/IbPRIA2022.pdf). [Published version](https://doi.org/10.1007/978-3-031-04881-4_4).*
+{: .justify}
 
 **2021** <br />
 {: .timeline}
