@@ -30,7 +30,7 @@ I worked on several machine learning research projects&mdash;mainly on the field
 **2015&ndash;2022** <br />
 {: .timeline .ident}
 **Ph.D.** - *[Universitat Politècnica de València](http://www.upv.es/)*. <br />
-I did a Ph.D. in computer science at the [PRHLT Research Center](https://www.prhlt.upv.es). It was mainly focused on interactive machine translation and on applying machine translation to some tasks related with the processing of historical documents (language modernization and spelling normalization). *Ph.D.'s' thesis: [Some Contributions to Interactive Machine Translation and to the Applications of Machine Translation for Historical Documents](documents/PhDdissertation.pdf)*.
+I did a Ph.D. in computer science at the [PRHLT Research Center](https://www.prhlt.upv.es). It was mainly focused on interactive machine translation and on applying machine translation to some tasks related with the processing of historical documents (language modernization and spelling normalization). *Ph.D.'s thesis: [Some Contributions to Interactive Machine Translation and to the Applications of Machine Translation for Historical Documents](documents/PhDdissertation.pdf)*.
 {: .ident .justify}
 
 **2014&ndash;2015** <br />
