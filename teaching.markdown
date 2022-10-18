@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Teaching experience
+title: Teaching
 ---
+## Resources
+**[Neural Machine Translation: a Practical Session](https://github.com/midobal/nmt-practical-session)** <br />
+A [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to introduce the training of neural machine translation systems to students. It was created for the lab sessions of the *Machine Translation* module of the [IARFID](https://www.upv.es/titulaciones/MUIARFID/) master from [Universitat Politècnica de València](https://www.upv.es/en).
+{: .justify}
 
+## Experience
 **September 2021&ndash;February 2022** <br />
 {: .timeline}
 **Machine Translation,** *[Master’s Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging](http://www.upv.es/titulaciones/MUIARFID/indexi.html)*, [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html) - [Universitat Politècnica de València](http://www.upv.es/).

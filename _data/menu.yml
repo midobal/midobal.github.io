@@ -1,17 +1,20 @@
 - title: about
   href: /
 
-- title: projects
-  href: /projects
-
 - title: publications
   href: /publications
 
 - title: research
   href: /research
 
+- title: software
+  href: /software
+
 - title: teaching
   href: /teaching
+
+- title: utilities
+  href: /utilities
 
 - title: arcanum
   href: /arcanum

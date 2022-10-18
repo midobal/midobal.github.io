@@ -1,9 +1,8 @@
 ---
 layout: page
-title: ''
+title: Software projects
 ---
 
-## Software projects
 **[Prefix-based IMT](https://github.com/midobal/pb-imt)** <br />
 Extension of [Barrachina et al.](https://aclanthology.org/J09-1002.pdf) implementation of the prefix-based interactive machine translation protocol. Taken a [Moses](https://github.com/moses-smt/mosesdecoder) search graph as an input, this software generates a word graph compatible with Barrachina et al. software and runs a user simulation. It was built in Python.
 {: .justify}
@@ -22,13 +21,4 @@ Implementation of the active learning protocol from *[A User Study of the Increm
 
 **[Online demonstrator](https://github.com/midobal/mthd)** <br />
 Online demonstrator of several applications of machine translation for the processing of historical documents. The server is based on [NMT-Keras](https://github.com/lvapeab/nmt-keras).
-{: .justify}
-
-## Other utilities
-**[Dockerfiles](https://github.com/midobal/dockerfiles)** <br />
-A collection of custom Dockerfiles for several tasks.
-{: .justify}
-
-**[MT scripts](https://github.com/midobal/mt-scripts)** <br />
-A collection of several scripts useful for research in machine translation.
 {: .justify}
