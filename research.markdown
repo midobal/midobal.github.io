@@ -2,7 +2,7 @@
 layout: page
 title: Research experience
 ---
-**March 2022&ndash;Present** <br />
+**March&ndash;August 2022** <br />
 {: .timeline}
 **Machine Learning Applications.**
 {: .justify .title}
@@ -10,7 +10,7 @@ Research line from the *PRHLT Research Center*. <br />
 {: .project .justify}
 *This research line included several research projects ongoing at the PRHLT Research Center on the fields of big data and deep learning, speech processing and dialog systems, handwritten text recognition, computer vision, language translation and natural language processing.* <br />
 {: .summary .justify}
-I work as a researcher on the field of machine translation, mainly in the are of interactive machine translation.
+I worked as a researcher on the field of machine translation, mainly in the are of interactive machine translation.
 {: .work .justify}
 
 

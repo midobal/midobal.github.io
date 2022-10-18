@@ -24,7 +24,7 @@ Erik Tjong Kim Sang, Marcel Bollmann, Remko Boschker, Francisco Casacuberta, Fei
 *Computational Linguistics in the Netherlands Journal, 7:53–64. [pdf](https://clinjournal.org/clinj/article/view/68/61).*
 {: .justify}
 
-Miguel Domingo, Álvaro Peris and Francisco Casacuberta.
+Álvaro Peris, Miguel Domingo and Francisco Casacuberta.
 **Interactive Neural Machine Translation.**
 *Computer Speech & Language, 45:201–220. [pdf](https://riunet.upv.es/bitstream/handle/10251/83641/2016-CSL-Peris-Domingo-Casacuberta.autor.pdf?sequence=3&isAllowed=y).*
 {: .justify}

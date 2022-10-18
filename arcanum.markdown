@@ -56,6 +56,9 @@ In this section I upload presentations and other miscellanea for archival purpos
 ## Other presentations
 **2022** <br />
 {: .timeline}
+**Word Level AutoCompletion**, *Internal PRHLT-MT Seminar*, Online, June 30. [Slides](presentations/wlac.pdf).
+{: .justify}
+
 **Overview of the "Machine Translation" Task**, *Covid-19 MLIA: Round 2 Virtual Meeting*, Online, February 17. [Slides](presentations/COVID19MLIA2022.pdf).
 {: .justify}
 
@@ -75,5 +78,5 @@ In this section I upload presentations and other miscellanea for archival purpos
 **Interactive Post-Editing in Machine Translation**, *M.Sc. defense*, Departament de Sistemes Informàtics i Computació, September 25. [Slides](presentations/MSc.pdf).
 {: .justify}
 
-**Statistical Post-Editing**, *Internal MT Seminar*, Ciutat Politècnica de la Innovació, March 31. [Slides](presentations/spe.pdf).
+**Statistical Post-Editing**, *Internal PRHLT-MT Seminar*, Ciutat Politècnica de la Innovació, March 31. [Slides](presentations/spe.pdf).
 {: .justify}
