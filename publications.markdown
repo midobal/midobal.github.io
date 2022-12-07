@@ -4,6 +4,13 @@ title: Publications
 ---
 
 ## Journal articles
+**2022** <br />
+{: .timeline}
+Francisco Casacuberta, Alexandru Ceausu, Khalid Choukri, Miltos Deligiannis, Miguel Domingo, Mercedes García-Martínez, Manuel Herranz, Guillaume Jacquet, Vassilis Papavassiliou, Stelios Piperidis, Prokopis Prokopidis, Dimitris Roussis, Marwa Hadj Salah
+**Findings of the Covid-19 MLIA Machine Translation Task.**
+*Under review at Language Resources and Evaluation. [pdf](https://arxiv.org/pdf/2211.07465).*
+{: .justify}
+
 
 **2020** <br />
 {: .timeline}
@@ -32,6 +39,11 @@ Erik Tjong Kim Sang, Marcel Bollmann, Remko Boschker, Francisco Casacuberta, Fei
 ## Conference proceedings
 **2022** <br />
 {: .timeline}
+Ángel Navarro, Miguel Domingo and Francisco Casacuberta.
+**PRHLT’s submission to WLAC 2022.**
+*In Proceedings of the Seventh Conference on Machine Translation, pages 1182–1186. [pdf](https://statmt.org/wmt22/pdf/2022.wmt-1.120.pdf).*
+{: .justify}
+
 Miguel Domingo and Francisco Casacuberta.
 **An Interactive Machine Translation Framework for Modernizing the Language of Historical Documents.**
 *In Proceedings of the Iberian Conference on Pattern Recognition and Image Analysis, pages 41–53. [pdf](papers/IbPRIA2022.pdf). [Published version](https://doi.org/10.1007/978-3-031-04881-4_4).*
