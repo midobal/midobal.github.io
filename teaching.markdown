@@ -8,6 +8,15 @@ A [Google Colab](https://colab.research.google.com/) notebook which presents a p
 {: .justify}
 
 ## Experience
+**September 2022&ndash;February 2023** <br />
+{: .timeline}
+**Machine Translation,** *[Master’s Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging](http://www.upv.es/titulaciones/MUIARFID/indexi.html)*, [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html) - [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*The goal of this course is to train students in techniques based on automatic learning that allow the construction of translation systems using datasets formed by sentences and their corresponding translations. First, students will study the fundamentals of translators based on statistical alignment models and translators based on dynamic neural networks. Then, they will implement and evaluate automatic translators using public tools.* <br />
+{: .summary .justify}
+Teaching assistant.
+{: .work .justify}
+
 **September 2021&ndash;February 2022** <br />
 {: .timeline}
 **Machine Translation,** *[Master’s Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging](http://www.upv.es/titulaciones/MUIARFID/indexi.html)*, [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html) - [Universitat Politècnica de València](http://www.upv.es/).
