@@ -5,7 +5,7 @@
 layout: page
 ---
 
-{% include image.html url="/images/profile.jpg" caption="" width=180 align="left" %}
+{% include image.html url="/images/profile.png" caption="" width=180 align="left" %}
 
 Hi there, welcome to my website! I'm Miguel Domingo. I work as a Ph.D. researcher at the [PRHLT Research Center](https://www.prhlt.upv.es) from [Universitat Politècnica de València](http://www.upv.es/). I have mainly worked in machine translation and historical document processing, but my interests also include pattern recognition and machine learning.
 {: .justify}
