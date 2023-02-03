@@ -2,6 +2,17 @@
 layout: page
 title: Research experience
 ---
+**December 2022&ndash;Present** <br />
+{: .timeline}
+**Avances en la aplicación de traducción automática neuronal para el procesado de documentos históricos.**
+{: .justify .title}
+Postdoctoral grant supported by the [valgrAI fundation](https://valgrai.eu/). <br />
+{: .project .justify}
+*Postdoctoral research project that aims to make advancements in the application of neural machine translation for the processing of historical documents.* <br />
+{: .summary .justify}
+I work as a researcher on the field of machine translation and its applications to the processing of historical data.
+{: .work .justify}
+
 **March&ndash;August 2022** <br />
 {: .timeline}
 **Machine Learning Applications.**
@@ -25,7 +36,7 @@ Community effort to boost the development of language resources and multilingual
 Co-organizer of the machine translation shared task.
 {: .work .justify}
 
-**December 2019&ndash;Present** <br />
+**December 2019&ndash;December 2022** <br />
 {: .timeline}
 **Deep learning for adaptative and multimodal Interaction in pattern recognition (DeepPattern).**
 {: .justify .title}
@@ -33,7 +44,7 @@ Research project supported by the *Generalitat Valenciana (GVA)* under the refer
 {: .project .justify}
 *This project follows past PROMETEO projects. Its goal is to incorporate deep neural networks and recurrent neural networks to interactive and multimodal pattern recognition from a deep learning approach. And to apply these techniques to several tasks such as interactive machine translation, handwritten text recognition, information retrieval and indexing from images, recognition of mathematical expressions, author profiling and multimodal speech recognition.* <br />
 {: .summary .justify}
-I work as a researcher developing new interactive protocols for the processing of historical data.
+I worked as a researcher developing new interactive protocols for the processing of historical data.
 {: .work .justify}
 
 **June&ndash;November 2019** <br />
