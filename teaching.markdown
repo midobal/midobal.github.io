@@ -8,6 +8,33 @@ A [Google Colab](https://colab.research.google.com/) notebook which presents a p
 {: .justify}
 
 ## Experience
+**February&ndash;July 2023** <br />
+{: .timeline}
+**Tools and Applications of Artificial Intelligence,** *[Master’s Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging](http://www.upv.es/titulaciones/MUIARFID/indexi.html)*, [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html) - [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*The goal of this course is to provide an overview of the applicability of Artificial Intelligence (AI) by reviewing the main current lines of AI. To this end, existing AI tools are analyzed and applied to different real contexts.* <br />
+{: .summary .justify}
+Lecturer.
+{: .work .justify}
+
+**February&ndash;July 2023** <br />
+{: .timeline}
+**Digital Media Production,** *[Master’s Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging](http://www.upv.es/titulaciones/MUIARFID/indexi.html)*, [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html) - [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*The goal of this course is to learn to visualize massive data, covering all the main important aspects and applying the knowledge to real usage cases such as visualization of current data. With this aim, the main points to cover are: the main fundaments of dataframes; basic graphic visualization from dataframes (lines, bar graphs, histograms, dispersion, heatmap, etc); visualization of geolocated data over maps; visualization of animated and interactive graphics; and web development to represent the different graphical representations covered throughout the course.* <br />
+{: .summary .justify}
+Teaching assistant.
+{: .work .justify}
+
+**February&ndash;June 2023** <br />
+{: .timeline}
+**Programming,** *[Bachelor’s Degree in Data Science](http://www.upv.es/titulaciones/GCD/indexi.html)*, [Escola Tècnica Superior d'Enginyeria Informàtica](https://www.inf.upv.es/www/etsinf/en/) - [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*Programming course taught in Python. Its goal is to deep into the study of dictionary-type data structures; dataframes; object-oriented programming; recursivity programming; algorithm analysis; and linear data structures (heaps, queues and lists).* <br />
+{: .summary .justify}
+Teaching assistant.
+{: .work .justify}
+
 **September 2022&ndash;February 2023** <br />
 {: .timeline}
 **Machine Translation,** *[Master’s Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging](http://www.upv.es/titulaciones/MUIARFID/indexi.html)*, [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html) - [Universitat Politècnica de València](http://www.upv.es/).
