@@ -4,9 +4,16 @@ title: Publications
 ---
 
 ## Journal articles
+**2023** <br />
+{: .timeline}
+Miguel Domingo and Francisco Casacuberta.
+**Interactive Machine Translation for the Language Modernization and Spelling Normalization of Historical Documents.**
+*Pattern Analysis and Applications. [DOI](https://doi.org/10.1007/s10044-023-01164-w).*
+{: .justify}
+
 **2022** <br />
 {: .timeline}
-Francisco Casacuberta, Alexandru Ceausu, Khalid Choukri, Miltos Deligiannis, Miguel Domingo, Mercedes García-Martínez, Manuel Herranz, Guillaume Jacquet, Vassilis Papavassiliou, Stelios Piperidis, Prokopis Prokopidis, Dimitris Roussis, Marwa Hadj Salah
+Francisco Casacuberta, Alexandru Ceausu, Khalid Choukri, Miltos Deligiannis, Miguel Domingo, Mercedes García-Martínez, Manuel Herranz, Guillaume Jacquet, Vassilis Papavassiliou, Stelios Piperidis, Prokopis Prokopidis, Dimitris Roussis, Marwa Hadj Salah.
 **Findings of the Covid-19 MLIA Machine Translation Task.**
 *Under review at Language Resources and Evaluation. [pdf](https://arxiv.org/pdf/2211.07465).*
 {: .justify}
@@ -16,19 +23,19 @@ Francisco Casacuberta, Alexandru Ceausu, Khalid Choukri, Miltos Deligiannis, Mig
 {: .timeline}
 Miguel Domingo and Francisco Casacuberta.
 **Modernizing Historical Documents: a User Study.**
-*Pattern Recognition Letters, 133:151–157. [pdf](https://arxiv.org/pdf/1907.00659.pdf).*
+*Pattern Recognition Letters, 133:151–157. [DOI](https://doi.org/10.1016/j.patrec.2020.02.027). [pdf](https://arxiv.org/pdf/1907.00659.pdf).*
 {: .justify}
 
 **2017** <br />
 {: .timeline}
 Miguel Domingo, Álvaro Peris and Francisco Casacuberta.
 **Segment-based Interactive-Predictive Machine Translation.**
-*Machine Translation Journal, 31:163–185. [pdf](https://riunet.upv.es/bitstream/handle/10251/103640/Author%20Version.pdf?sequence=3&isAllowed=y).*
+*Machine Translation Journal, 31:163–185. [DOI](https://doi.org/10.1007/s10590-017-9213-3). [pdf](https://riunet.upv.es/bitstream/handle/10251/103640/Author%20Version.pdf?sequence=3&isAllowed=y).*
 {: .justify}
 
 Erik Tjong Kim Sang, Marcel Bollmann, Remko Boschker, Francisco Casacuberta, Feike Dietz, Stefanie Dipper, Miguel Domingo, Rob van der Goot, Marjo van Koppen, Nikola Ljubešić, Robert Östling, Florian Petran, Eva Pettersson, Yves Scherrer, Marijn Schraagen, Leen Sevens, Jörg Tiedemann, Tom Vanallemeersch and Kalliopi Zervanou.
 **The CLIN27 Shared Task: Translating Historical Text to Contemporary Language for Improving Automatic Linguistic Annotation.**
-*Computational Linguistics in the Netherlands Journal, 7:53–64. [pdf](https://clinjournal.org/clinj/article/view/68/61).*
+*Computational Linguistics in the Netherlands Journal, 7:53–64. [DOI](https://doi.org/10.1016/j.csl.2016.12.003). [pdf](https://clinjournal.org/clinj/article/view/68/61).*
 {: .justify}
 
 Álvaro Peris, Miguel Domingo and Francisco Casacuberta.
@@ -37,6 +44,13 @@ Erik Tjong Kim Sang, Marcel Bollmann, Remko Boschker, Francisco Casacuberta, Fei
 {: .justify}
 
 ## Conference proceedings
+**2023** <br />
+{: .timeline}
+Ángel Navarro, Miguel Domingo and Francisco Casacuberta.
+**Segment-based Interactive Machine Translation at a Character Level.**
+*In Proceedings of the Annual Conference of the European Association for Machine Translation. In Press.*
+{: .justify}
+
 **2022** <br />
 {: .timeline}
 Ángel Navarro, Miguel Domingo and Francisco Casacuberta.
@@ -46,14 +60,14 @@ Erik Tjong Kim Sang, Marcel Bollmann, Remko Boschker, Francisco Casacuberta, Fei
 
 Miguel Domingo and Francisco Casacuberta.
 **An Interactive Machine Translation Framework for Modernizing the Language of Historical Documents.**
-*In Proceedings of the Iberian Conference on Pattern Recognition and Image Analysis, pages 41–53. [pdf](papers/IbPRIA2022.pdf). [Published version](https://doi.org/10.1007/978-3-031-04881-4_4).*
+*In Proceedings of the Iberian Conference on Pattern Recognition and Image Analysis, pages 41–53. [DOI](https://doi.org/10.1007/978-3-031-04881-4_4). [pdf](papers/IbPRIA2022.pdf).*
 {: .justify}
 
 **2021** <br />
 {: .timeline}
 Miguel Domingo and Francisco Casacuberta.
 **A Comparison of Character-based Neural Machine Translations Techniques Applied to Spelling Normalization.**
-*In Proceedings of the International Conference on Pattern Recognition. International Workshop on Pattern Recognition for Cultural Heritage, pages 326–338. [pdf](papers/PatReCH2020.pdf). [Published version](https://doi.org/10.1007/978-3-030-68787-8_24)*
+*In Proceedings of the International Conference on Pattern Recognition. International Workshop on Pattern Recognition for Cultural Heritage, pages 326–338. [DOI](https://doi.org/10.1007/978-3-030-68787-8_24). [pdf](papers/PatReCH2020.pdf).*
 {: .justify}
 
 Miguel Domingo and Francisco Casacuberta.
@@ -72,7 +86,7 @@ Miguel Domingo, Mercedes García-Martínez, Álvaro Peris, Alexandre Helle, Aman
 {: .timeline}
 Miguel Domingo and Francisco Casacuberta.
 **Enriching Character-based Neural Machine Translation with Modern Documents for Achieving an Orthography Consistency in Historical Documents.**
-*In Proceedings of the International Conference on Image Analysis and Processing. International Workshop on Pattern Recognition for Cultural Heritage, pages 59–69. [pdf](papers/PatReCH2019.pdf). [Published version](https://doi.org/10.1007/978-3-030-30754-7_7).*
+*In Proceedings of the International Conference on Image Analysis and Processing. International Workshop on Pattern Recognition for Cultural Heritage, pages 59–69. [DOI](https://doi.org/10.1007/978-3-030-30754-7_7). [pdf](papers/PatReCH2019.pdf).*
 {: .justify}
 
 Miguel Domingo, Mercedes García-Martínez, Álvaro Peris, Alexandre Helle, Amando Estela, Laurent Bié, Francisco Casacuberta and Manuel Herranz.

@@ -54,6 +54,11 @@ In this section I upload presentations and other miscellanea for archival purpos
 {: .justify}
 
 ## Other presentations
+**2023** <br />
+{: .timeline}
+**Machine Translation Applications to Historical Documents**, *Internal PRHLT Seminar*, Ciutat Politècnica de la Innovació, May 3. [Slides](presentations/mthd.pdf).
+{: .justify}
+
 **2022** <br />
 {: .timeline}
 **Word Level AutoCompletion**, *Internal PRHLT-MT Seminar*, Online, June 30. [Slides](presentations/wlac.pdf).

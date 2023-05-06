@@ -7,6 +7,10 @@ title: Teaching
 A [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to introduce the training of neural machine translation systems to students. It was created for the lab sessions of the *Machine Translation* module of the [IARFID](https://www.upv.es/titulaciones/MUIARFID/) master from [Universitat Politècnica de València](https://www.upv.es/en).
 {: .justify}
 
+**[Stable Diffusion Fine-tuning with DreamBooth](https://github.com/midobal/sd-fine-tuning-practical-session)** <br />
+A [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to fine-tune Stable Diffusion so it learns to generate yourself. It was created for the lab sessions of the *Tools and Applications of Artificial Intelligence* module of the [IARFID](https://www.upv.es/titulaciones/MUIARFID/) master from [Universitat Politècnica de València](https://www.upv.es/en).
+{: .justify}
+
 ## Experience
 **February&ndash;July 2023** <br />
 {: .timeline}
