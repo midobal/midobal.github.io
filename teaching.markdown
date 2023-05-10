@@ -2,13 +2,18 @@
 layout: page
 title: Teaching
 ---
+## Lectures
+**[AI Tools Based on Pre-Trained Language Models](/lectures/ptlm.markdown)** <br />
+Lectures from the *Tools and Applications of Artificial Intelligence* course of the [IARFID](https://www.upv.es/titulaciones/MUIARFID/) master from [Universitat Politècnica de València](https://www.upv.es/en). This part of the course presents some applications based on pre-trained language models, focusing on the study of applications for programming, image generation and text generation.
+{: .justify}
+
 ## Resources
 **[Neural Machine Translation: a Practical Session](https://github.com/midobal/nmt-practical-session)** <br />
-A [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to introduce the training of neural machine translation systems to students. It was created for the lab sessions of the *Machine Translation* module of the [IARFID](https://www.upv.es/titulaciones/MUIARFID/) master from [Universitat Politècnica de València](https://www.upv.es/en).
+A [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to introduce the training of neural machine translation systems to students. It was created for the lab sessions of the *Machine Translation* course of the [IARFID](https://www.upv.es/titulaciones/MUIARFID/) master from [Universitat Politècnica de València](https://www.upv.es/en).
 {: .justify}
 
 **[Stable Diffusion Fine-tuning with DreamBooth](https://github.com/midobal/sd-fine-tuning-practical-session)** <br />
-A [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to fine-tune Stable Diffusion so it learns to generate yourself. It was created for the lab sessions of the *Tools and Applications of Artificial Intelligence* module of the [IARFID](https://www.upv.es/titulaciones/MUIARFID/) master from [Universitat Politècnica de València](https://www.upv.es/en).
+A [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to fine-tune Stable Diffusion so it learns to generate yourself. It was created for the lab sessions of the *Tools and Applications of Artificial Intelligence* course of the [IARFID](https://www.upv.es/titulaciones/MUIARFID/) master from [Universitat Politècnica de València](https://www.upv.es/en).
 {: .justify}
 
 ## Experience
