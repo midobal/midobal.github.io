@@ -3,6 +3,18 @@ layout: page
 title: Software projects
 ---
 
+**[Active learning](https://github.com/midobal/OpenNMT-py/tree/OnlineLearning)** <br />
+Implementation of the active learning protocol from *[A User Study of the Incremental Learning in NMT](https://www.aclweb.org/anthology/2020.eamt-1.34.pdf)* based on the toolkit [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py). It was built in PyTorch.
+{: .justify}
+
+**[Interactive Neural Machine Translation](https://github.com/PRHLT/OpenNMT-py/tree/inmt)** <br />
+A fork of the [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) toolkit implementing several interactive machine translation protocols. It was built in PyTorch.
+{: .justify}
+
+**[Online demonstrator](https://github.com/midobal/mthd)** <br />
+Online demonstrator of several applications of machine translation for the processing of historical documents. The server is based on [NMT-Keras](https://github.com/lvapeab/nmt-keras).
+{: .justify}
+
 **[Prefix-based IMT](https://github.com/midobal/pb-imt)** <br />
 Extension of [Barrachina et al.](https://aclanthology.org/J09-1002.pdf) implementation of the prefix-based interactive machine translation protocol. Taken a [Moses](https://github.com/moses-smt/mosesdecoder) search graph as an input, this software generates a word graph compatible with Barrachina et al. software and runs a user simulation. It was built in Python.
 {: .justify}
@@ -15,10 +27,6 @@ Implementation of the segment-based interactive machine translation protocol fro
 Given a parallel data set, this software trains an statistical dictionary for translating documents. It was built in Python and makes use of [mgiza](https://github.com/moses-smt/mgiza) for computing *IBM model 1* alignments.
 {: .justify}
 
-**[Active learning](https://github.com/midobal/OpenNMT-py/tree/OnlineLearning)** <br />
-Implementation of the active learning protocol from *[A User Study of the Incremental Learning in NMT](https://www.aclweb.org/anthology/2020.eamt-1.34.pdf)* based on the toolkit [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py). It was built in PyTorch.
-{: .justify}
-
-**[Online demonstrator](https://github.com/midobal/mthd)** <br />
-Online demonstrator of several applications of machine translation for the processing of historical documents. The server is based on [NMT-Keras](https://github.com/lvapeab/nmt-keras).
+**[Word-Level AutoCompletion](https://github.com/PRHLT/OpenNMT-py/tree/word-level_autocompletion)** <br />
+A fork of the[OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) toolkit that deploys a word-level autocompletion tool. It was built in PyTorch.
 {: .justify}

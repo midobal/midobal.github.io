@@ -40,7 +40,7 @@ Erik Tjong Kim Sang, Marcel Bollmann, Remko Boschker, Francisco Casacuberta, Fei
 
 Álvaro Peris, Miguel Domingo and Francisco Casacuberta.
 **Interactive Neural Machine Translation.**
-*Computer Speech & Language, 45:201–220. [pdf](https://riunet.upv.es/bitstream/handle/10251/83641/2016-CSL-Peris-Domingo-Casacuberta.autor.pdf?sequence=3&isAllowed=y).*
+*Computer Speech & Language, 45:201–220. [DOI](https://doi.org/10.1016/j.csl.2016.12.003). [pdf](https://riunet.upv.es/bitstream/handle/10251/83641/2016-CSL-Peris-Domingo-Casacuberta.autor.pdf?sequence=3&isAllowed=y).*
 {: .justify}
 
 ## Conference proceedings
