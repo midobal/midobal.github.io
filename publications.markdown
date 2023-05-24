@@ -99,13 +99,13 @@ Miguel Domingo, Mercedes García-Martínez, Amando Estela, Laurent Bié, Alexand
 *In Proceedings of the Annual Meeting of the Association for Computational Linguistics, pages 70–74. [pdf](https://aclanthology.org/P19-3012.pdf).*
 {: .justify}
 
-**2018** <br />
-{: .timeline}
 Miguel Domingo, Mercedes García-Martínez, Alexandre Helle, Francisco Casacuberta and Manuel Herranz.
 **How Much Does Tokenization Affect Neural Machine Translation?**
-*arXiv preprint arXiv:1812.08621. Accepted for publication at CICLing 2019. [pdf](https://arxiv.org/pdf/1812.08621).*
+*In Proceedings of the International Conference on Computational Linguistics and Intelligent Text Processing, pages 545–554. [DOI](https://doi.org/10.1007/978-3-031-24337-0_38). [pdf](https://arxiv.org/pdf/1812.08621).*
 {: .justify}
 
+**2018** <br />
+{: .timeline}
 Miguel Domingo and Francisco Casacuberta.
 **A Machine Translation Approach for Modernizing Historical Documents Using Backtranslation.**
 *In Proceedings of the International Workshop on Spoken Language Translation, pages 39–47. [pdf](https://workshop2018.iwslt.org/downloads/Proceedings_IWSLT_2018.pdf#page=54).*
