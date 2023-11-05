@@ -7,10 +7,16 @@ layout: page
 
 {% include image.html url="/images/profile.png" caption="" width=180 align="left" %}
 
-Hi there, welcome to my website! I'm Miguel Domingo. I work as a Ph.D. researcher at the [PRHLT Research Center](https://www.prhlt.upv.es) from [Universitat Politècnica de València](http://www.upv.es/). I have mainly worked in machine translation and historical document processing, but my interests also include other areas of machine learning, computational linguistics and pattern recognition.
+Hi there, welcome to my website! I'm Miguel Domingo. I'm a postdoctoral fellow at [Universitat Politècnica de València](http://www.upv.es/) and a member of [PRHLT Research Center](https://www.prhlt.upv.es). My research interests include machine learning, computational linguistics and their applications to machine translation, computer-assisted translation and the processing of historical documents. I co-organized the machine translation shared task of the [Covid-19 MultiLingual Information Access initiative](http://eval.covid19-mlia.eu/), and I have also participated in 2 projects funded by the Spanish government and 2 regional projects. I am the coauthor of 20 articles in international journals and proceedings of international conferences, and I have served in program committees of 20 international conferences and workshops.
 {: .justify}
 
 ## Professional experience
+
+**December 2022&ndash;Present** <br />
+{: .timeline .ident}
+**Postdoctoral Fellow** - *[Universitat Politècnica de València](http://www.upv.es/)*. <br />
+I'm the recipient of a postdoctoral grant by the [valgrAI fundation](https://valgrai.eu/). I am part of [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html), were I teach modules mainly related with programming, machine translation and other machine learning applications.
+{: .ident .justify}
 
 **February 2022&ndash;Present** <br />
 {: .timeline .ident}
