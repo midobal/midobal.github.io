@@ -8,16 +8,8 @@ title: Publications
 {: .timeline}
 Miguel Domingo and Francisco Casacuberta.
 **Interactive Machine Translation for the Language Modernization and Spelling Normalization of Historical Documents.**
-*Pattern Analysis and Applications. [DOI](https://doi.org/10.1007/s10044-023-01164-w).*
+*Pattern Analysis and Applications. [DOI](https://doi.org/10.1007/s10044-023-01164-w).[pdf](https://link.springer.com/content/pdf/10.1007/s10044-023-01164-w.pdf).*
 {: .justify}
-
-**2022** <br />
-{: .timeline}
-Francisco Casacuberta, Alexandru Ceausu, Khalid Choukri, Miltos Deligiannis, Miguel Domingo, Mercedes García-Martínez, Manuel Herranz, Guillaume Jacquet, Vassilis Papavassiliou, Stelios Piperidis, Prokopis Prokopidis, Dimitris Roussis, Marwa Hadj Salah.
-**Findings of the Covid-19 MLIA Machine Translation Task.**
-*Under review at Language Resources and Evaluation. [pdf](https://arxiv.org/pdf/2211.07465).*
-{: .justify}
-
 
 **2020** <br />
 {: .timeline}
@@ -47,8 +39,13 @@ Erik Tjong Kim Sang, Marcel Bollmann, Remko Boschker, Francisco Casacuberta, Fei
 **2023** <br />
 {: .timeline}
 Ángel Navarro, Miguel Domingo and Francisco Casacuberta.
+**PRHLT’s submission to WLAC 2023.**
+*In Proceedings of the Eight Conference on Machine Translation. In press.*
+{: .justify}
+
+Ángel Navarro, Miguel Domingo and Francisco Casacuberta.
 **Segment-based Interactive Machine Translation at a Character Level.**
-*In Proceedings of the Annual Conference of the European Association for Machine Translation. In Press.*
+*In Proceedings of the Annual Conference of the European Association for Machine Translation, pages 239–248.* [pdf](https://aclanthology.org/2023.eamt-1.23.pdf).
 {: .justify}
 
 **2022** <br />
@@ -128,4 +125,11 @@ Miguel Domingo, Mara Chinea-Rios and Francisco Casacuberta.
 Miguel Domingo, Álvaro Peris and Francisco Casacuberta.
 **Interactive-Predictive Translation based on Multiple Word-Segments.**
 *In Proceedings of the Annual Conference of the European Association for Machine Translation, pages 282–291. [pdf](https://aclanthology.org/W16-3415.pdf). [Best paper award](documents/EAMT2016-BestPaperAward.pdf).*
+{: .justify}
+
+## Pre-prints
+**2022** <br />
+{: .timeline}
+Francisco Casacuberta, Alexandru Ceausu, Khalid Choukri, Miltos Deligiannis, Miguel Domingo, Mercedes García-Martínez, Manuel Herranz, Guillaume Jacquet, Vassilis Papavassiliou, Stelios Piperidis, Prokopis Prokopidis, Dimitris Roussis, Marwa Hadj Salah.
+**Findings of the Covid-19 MLIA Machine Translation Task.** *[pdf](https://arxiv.org/pdf/2211.07465).*
 {: .justify}

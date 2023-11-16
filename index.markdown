@@ -15,7 +15,7 @@ Hi there, welcome to my website! I'm Miguel Domingo. I'm a postdoctoral fellow a
 **December 2022&ndash;Present** <br />
 {: .timeline .ident}
 **Postdoctoral Fellow** - *[Universitat Politècnica de València](http://www.upv.es/)*. <br />
-I'm the recipient of a postdoctoral grant by the [valgrAI fundation](https://valgrai.eu/). I am part of [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html), were I teach modules mainly related with programming, machine translation and other machine learning applications.
+I'm the recipient of a postdoctoral grant by the [valgrAI fundation](https://valgrai.eu/). I am part of [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html), where I teach modules mainly related with programming, machine translation and other machine learning applications.
 {: .ident .justify}
 
 **February 2022&ndash;Present** <br />
@@ -36,7 +36,7 @@ I worked on several machine learning research projects&mdash;mainly on the field
 **2015&ndash;2022** <br />
 {: .timeline .ident}
 **Ph.D.** - *[Universitat Politècnica de València](http://www.upv.es/)*. <br />
-I did a Ph.D. in computer science at the [PRHLT Research Center](https://www.prhlt.upv.es). It was mainly focused on interactive machine translation and on applying machine translation to some tasks related with the processing of historical documents (language modernization and spelling normalization). *Ph.D.'s thesis: [Some Contributions to Interactive Machine Translation and to the Applications of Machine Translation for Historical Documents](documents/PhDdissertation.pdf)*.
+I did a Ph.D. in computer science at the [PRHLT Research Center](https://www.prhlt.upv.es). It was mainly focused on interactive machine translation and on applying machine translation to some tasks related with the processing of historical documents (language modernization and spelling normalization). I was awarded the [second accesit from AERFAI's best Ph.D. award](documents/PhDaward.pdf). *Ph.D.'s thesis: [Some Contributions to Interactive Machine Translation and to the Applications of Machine Translation for Historical Documents](documents/PhDdissertation.pdf)*.
 {: .ident .justify}
 
 **2014&ndash;2015** <br />

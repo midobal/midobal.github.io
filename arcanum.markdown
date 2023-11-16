@@ -56,6 +56,10 @@ In this section I upload presentations and other miscellanea for archival purpos
 ## Other presentations
 **2023** <br />
 {: .timeline}
+**Pattern Recognition and Human Language Technology Research Center**, *EDF23 HLTO Kick-Off Meeting*, Paris, July 13. [Slides](presentations/edf23_kick_off.pdf).
+
+**Advancements in the Application of Neural Machine Translation for the Processing of Historical Documents**, *ValgrAI Scientific Council Forum 2023*, Ciutat Politècnica de la Innovació, July 4. [Slides](presentations/valgraiSCF23.pdf).
+
 **Machine Translation Applications to Historical Documents**, *Internal PRHLT Seminar*, Ciutat Politècnica de la Innovació, May 3. [Slides](presentations/mthd.pdf).
 {: .justify}
 
