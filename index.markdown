@@ -11,11 +11,12 @@ Hi there, welcome to my website! I'm Miguel Domingo. I'm a postdoctoral fellow a
 {: .justify}
 
 ## Professional experience
+{: .ident}
 
 **December 2022&ndash;Present** <br />
 {: .timeline .ident}
 **Postdoctoral Fellow** - *[Universitat Politècnica de València](http://www.upv.es/)*. <br />
-I'm the recipient of a postdoctoral grant by the [valgrAI fundation](https://valgrai.eu/). I am part of [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html), where I teach modules mainly related with programming, machine translation and other machine learning applications.
+I'm the recipient of a postdoctoral grant by the [valgrAI fundation](https://valgrai.eu/). I am part of [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html), where I teach courses mainly related with programming, machine translation and other machine learning applications.
 {: .ident .justify}
 
 **February 2022&ndash;Present** <br />

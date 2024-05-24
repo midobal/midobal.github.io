@@ -40,12 +40,12 @@ Erik Tjong Kim Sang, Marcel Bollmann, Remko Boschker, Francisco Casacuberta, Fei
 {: .timeline}
 Ángel Navarro, Miguel Domingo and Francisco Casacuberta.
 **PRHLT’s submission to WLAC 2023.**
-*In Proceedings of the Eight Conference on Machine Translation. In press.*
+*In Proceedings of the Eight Conference on Machine Translation, pages 877–881. [pdf](https://aclanthology.org/2023.wmt-1.78.pdf)*
 {: .justify}
 
 Ángel Navarro, Miguel Domingo and Francisco Casacuberta.
 **Segment-based Interactive Machine Translation at a Character Level.**
-*In Proceedings of the Annual Conference of the European Association for Machine Translation, pages 239–248.* [pdf](https://aclanthology.org/2023.eamt-1.23.pdf).
+*In Proceedings of the Annual Conference of the European Association for Machine Translation, pages 239–248. [pdf](https://aclanthology.org/2023.eamt-1.23.pdf).*
 {: .justify}
 
 **2022** <br />
