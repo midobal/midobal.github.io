@@ -6,6 +6,11 @@ title: Arcanum
 In this section I upload presentations and other miscellanea for archival purposes and for those who look to dive in to the arcane.
 
 ## Papers presented
+**2024** <br />
+{: .timeline}
+**Findings of a Machine Translation Shared Task Focused on Covid-19 Related Documents**, *XL Annual Conference of the Spanish Association for Natural Language Processing (SEPLN)*, Valladolid, September 24–27. [Poster](presentations/SEPLN24.pdf).
+{: .justify}
+
 **2022** <br />
 {: .timeline}
 **An Interactive Machine Translation Framework for Modernizing the Language of Historical Documents**, *10th Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)*, Aveiro, May 4–6. [Slides](presentations/IbPRIA2022.pdf).

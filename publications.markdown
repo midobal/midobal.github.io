@@ -36,6 +36,25 @@ Erik Tjong Kim Sang, Marcel Bollmann, Remko Boschker, Francisco Casacuberta, Fei
 {: .justify}
 
 ## Conference proceedings
+**2025** <br />
+{: .timeline}
+Sergio Gómez, Miguel Domingo, Ángel Navarro and Francisco Casacuberta.
+**Large Language Models for Interactive Machine Translation.**
+*In Proceedings of the Iberian Conference on Pattern Recognition and Image Analysis, in press.*
+{: .justify}
+
+**2024** <br />
+{: .timeline}
+Sergio Gómez, Miguel Domingo and Francisco Casacuberta.
+**Interactive Machine Translation with Large Language Models in Low Resources Languages.**
+*In Proceedings of IberSPEECH 2024, pages 66–70. [pdf](https://www.isca-archive.org/iberspeech_2024/gomez24_iberspeech.pdf)*
+{: .justify}
+
+Francisco Casacuberta, Alexandru Ceausu, Khalid Choukri, Miltos Deligiannis, Miguel Domingo, Mercedes García-Martínez, Manuel Herranz, Guillaume Jacquet, Vassilis Papavassiliou, Stelios Piperidis, Prokopis Prokopidis, Dimitris Roussis, Marwa Hadj Salah.
+**Findings of a Machine Translation Shared Task Focused onCovid-19 Related Documents.**
+*In Proceedings of the Annual Conference of the Spanish Association for Natural Language Processing. [pdf](https://besaya.infor.uva.es/sepln24/paper03.pdf)*
+{: .justify}
+
 **2023** <br />
 {: .timeline}
 Ángel Navarro, Miguel Domingo and Francisco Casacuberta.
@@ -128,6 +147,12 @@ Miguel Domingo, Álvaro Peris and Francisco Casacuberta.
 {: .justify}
 
 ## Pre-prints
+**2025** <br />
+{: .timeline}
+Miguel Domingo and Francisco Casacuberta.
+**Two Spelling Normalization Approaches Based on Large Language Models.** *[pdf](https://arxiv.org/pdf/2506.23288).*
+{: .justify}
+
 **2022** <br />
 {: .timeline}
 Francisco Casacuberta, Alexandru Ceausu, Khalid Choukri, Miltos Deligiannis, Miguel Domingo, Mercedes García-Martínez, Manuel Herranz, Guillaume Jacquet, Vassilis Papavassiliou, Stelios Piperidis, Prokopis Prokopidis, Dimitris Roussis, Marwa Hadj Salah.

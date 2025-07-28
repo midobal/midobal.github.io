@@ -17,6 +17,52 @@ A [Google Colab](https://colab.research.google.com/) notebook which presents a p
 {: .justify}
 
 ## Experience
+**February&ndash;July 2025** <br />
+{: .timeline}
+**Data Structures and Algorithms,** *[Bachelor's Degree in Systems Engineering and Management for Innovation Challenges](https://seamic.upv.es/)*, [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*Programming course taught in Python. Its goal is to propel students towards mastering the use of different data structures and algorithms, building upon past programming courses to build a robust foundation for tackling more intricate programming challenges and contributing to the field of computer science. This course embarks on an advanced journey to discover new forms of data representation and algorithmic schemes that will allow the resolution of problems of medium complexity. It is design to enable students to make decisions, based on efficiency criteria, to choose the data structures and algorithmic schemes that provide the most efficient solution to the problems that arise.* <br />
+{: .summary .justify}
+I was the course coordinator, and gave lectures and practical sessions for the first half of the course.
+{: .work .justify}
+
+**Tools and Applications of Artificial Intelligence,** *[Master’s Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging](http://www.upv.es/titulaciones/MUIARFID/indexi.html)*, [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html) - [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*The goal of this course is to provide an overview of the applicability of Artificial Intelligence (AI) by reviewing the main current lines of AI. To this end, existing AI tools are analyzed and applied to different real contexts.* <br />
+{: .summary .justify}
+I gave lectures and practical sessions showcasing some AI tools based on pre-trained language models and their applications for different scenarios. We focused on the study of applications for text, image and video generation. *[Slides](/lectures/ptlm.markdown)*.
+{: .work .justify}
+
+**Algorithmics,** *[Bachelor’s Degree in Data Science](http://www.upv.es/titulaciones/GCD/indexi.html)*, [Escola Tècnica Superior d'Enginyeria Informàtica](https://www.inf.upv.es/www/etsinf/en/) - [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*Programming course taught in Python. Its goal is to broaden the study of algorithm design techniques and to deepen its theoretical foundation (design and evaluation). In particular, basic concepts and algorithms of Distributed Programming will be studied as well as the algorithmic paradigms of Dynamic Programming, Backtrack Search, and Branching and Pruning. The A\* and IDA\* search algorithms will be studied.* <br />
+{: .summary .justify}
+I gave practical sessions to teach students programming in Python.
+{: .work .justify}
+
+**Programming,** *[Bachelor’s Degree in Data Science](http://www.upv.es/titulaciones/GCD/indexi.html)*, [Escola Tècnica Superior d'Enginyeria Informàtica](https://www.inf.upv.es/www/etsinf/en/) - [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*Programming course taught in Python. Its goal is to deep into the study of dictionary-type data structures; dataframes; object-oriented programming; recursivity programming; algorithm analysis; and linear data structures (heaps, queues and lists).* <br />
+{: .summary .justify}
+I gave practical sessions to teach students programming in Python.
+{: .work .justify}
+
+**September 2024&ndash;January 2025** <br />
+{: .timeline}
+**Programming Fundamentals,** *[Bachelor’s Degree in Data Science](http://www.upv.es/titulaciones/GCD/indexi.html)*, [Escola Tècnica Superior d'Enginyeria Informàtica](https://www.inf.upv.es/www/etsinf/en/) - [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*Programming course taught in Python. Its goal is to introduce students to the processes related to computer programming. This course empowers students in all aspects related to small-scale programming in a high-level imperative language such as Python: various forms of data representation, from elementary types such as numeric to more complex ones such as lists; different instructions, from assignment to conditional and iterative structures; some specific data processing packages and all this using an integrated program development environment.* <br />
+{: .summary .justify}
+I gave practical sessions to teach students programming in Python.
+{: .work .justify}
+
+**Programming Languages, Technologies and Paradigms,** *[Bachelor’s Degree in Informatics Engineering](https://www.upv.es/titulaciones/GII/)*, [Escola Tècnica Superior d'Enginyeria Informàtica](https://www.inf.upv.es/www/etsinf/en/) - [Universitat Politècnica de València](http://www.upv.es/).
+{: .justify .title}
+*Programming course taught in Java, Haskell and Prolog. Its goal is to understand the essential aspects of the different programming paradigms and the implications from the use of design of a language.  It also provides the necessary basis for an appropriate choice and use (possibly combined) of languages and paradigms in the analysis, design, construction and maintenance of applications in a robust, safe and efficient way. The objective of the course is to introduce the fundamentals, the supporting technologies and the main applications of the key paradigms in which the current programming languages are framed.* <br />
+{: .summary .justify}
+I gave practical sessions to teach students programming in Java, Haskell and Prolog.
+{: .work .justify}
+
 **February&ndash;July 2024** <br />
 {: .timeline}
 **Tools and Applications of Artificial Intelligence,** *[Master’s Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging](http://www.upv.es/titulaciones/MUIARFID/indexi.html)*, [Departament de Sistemes Informàtics i Computació](http://www.upv.es/entidades/DSIC/index.html) - [Universitat Politècnica de València](http://www.upv.es/).
